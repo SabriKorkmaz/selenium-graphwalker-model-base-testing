@@ -24,11 +24,17 @@ public class Runner {
 
     Result result2 = executor2.execute(true);
     System.out.println("Done: [" + result2.getResults().toString(2) + "]");*/
-    TestExecutor executor3 = new TestExecutor(
+   /* TestExecutor executor3 = new TestExecutor(
             Model3Test.class
 
     );
     Result result3 = executor3.execute(true);
-    System.out.println("Done: [" + result3.getResults().toString(2) + "]");
+    System.out.println("Done: [" + result3.getResults().toString(2) + "]");*/
+    TestExecutor executor4 = new TestExecutor(
+            Model4Test.class
+
+    );
+    Result result4 = executor4.execute(true);
+    System.out.println("Done: [" + result4.getResults().toString(2) + "]");
   }
 }

@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40c74ac0-762e-4da1-883e-b419725286a1" name="Changes" comment="readme">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Model1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Model2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Model3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Model4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Model4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Model4Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +40,9 @@
     </option>
   </component>
   <component name="ProjectId" id="277jl7ioWF3n3plgyzqCfvqWGlk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,6 +54,12 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="graphwalker-maven-archetype" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
@@ -94,7 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1648703963395</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="readme">
+      <created>1648703991650</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648703991650</updated>
+    </task>
+    <task id="LOCAL-00004" summary="readme">
+      <created>1648704025000</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648704025000</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

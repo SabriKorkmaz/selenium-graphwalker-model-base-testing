@@ -21,6 +21,7 @@ public class Model4Test   extends ExecutionContext implements Model4{
         WebElement l3 = webDriver.findElement(search);
         Actions at3 = new Actions(webDriver);
         at3.moveToElement(l3).click().perform();
+        sleep(4000);
         By goToFav = By.xpath("//*[@id=\"header__container\"]/header/div[1]/div[3]/div/div[1]/a");
         WebElement l4 = webDriver.findElement(goToFav);
         Actions at5= new Actions(webDriver);
@@ -51,7 +52,7 @@ public class Model4Test   extends ExecutionContext implements Model4{
 
     @Override
     public void e_ClearFavourite() {
-        By clear = By.className("remove-from-favorite");
+        By clear = By.className("emi-icon");
 
         WebElement element = webDriver.findElement(clear);
         String strJavaScript = "var element = arguments[0]; var mouseEventObj = document.createEvent('MouseEvents'); mouseEventObj.initEvent( 'mouseover', true, true ); element.dispatchEvent(mouseEventObj);";
